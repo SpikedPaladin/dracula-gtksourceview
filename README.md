@@ -1,20 +1,20 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [GtkSourceView](https://wiki.gnome.org/Projects/GtkSourceView)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [GtkSourceView](https://wiki.gnome.org/Projects/GtkSourceView).
 
-![Screenshot](./screenshot.png)
+![Screenshot](./screenshots/screenshot-vala.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+All instructions can be found at [INSTALL.md](./INSTALL.md).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/SpikedPaladin/dracula-gtksourceview/graphs/contributors).
 
-[![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+[![PaladinDev](https://github.com/SpikedPaladin.png?size=100)](https://github.com/SpikedPaladin) |
 --- |
-[Zeno Rocha](https://github.com/zenorocha) |
+[PaladinDev](https://github.com/SpikedPaladin) |
 
 ## License
 

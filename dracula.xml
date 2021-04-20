@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Code Painter (https://github.com/SpikedPaladin/CodePainter) -->
+<style-scheme id="dracula" name="Dracula" version="1.0">
+  	<author>PaladinDev</author>
+  	<description>Dark color scheme for GtkSourceView</description>
+    
+    <!-- Dracula Palette -->
+    <color name="background" value="#282A36"/>
+    <color name="current-line" value="#44475A"/>
+    <color name="foreground" value="#F8F8F2"/>
+    <color name="comment" value="#6272A4"/>
+    <color name="cyan" value="#8BE9FD"/>
+    <color name="green" value="#50FA7B"/>
+    <color name="orange" value="#FFB86C"/>
+    <color name="pink" value="#FF79C6"/>
+    <color name="purple" value="#BD93F9"/>
+    <color name="red" value="#FF5555"/>
+    <color name="yellow" value="#F1FA8C"/>
+    
+	<!-- GUI styles -->
+    <style name="text" foreground="foreground" background="background"/>
+    <style name="cursor" foreground="foreground" background="foreground"/>
+    <style name="selection" foreground="foreground" background="#725E97"/>
+    <style name="current-line" background="current-line"/>
+    <style name="line-numbers" foreground="comment" background="background"/>
+    <style name="current-line-number" background="current-line"/>
+    <style name="bracket-match" foreground="#F8F8FA" background="#1E2029" bold="true"/>
+    <style name="right-margin" background="#4A4F66"/>
+    <style name="background-pattern" foreground="#313447" background="#313447"/>
+  	<style name="search-match" foreground="foreground" background="cyan"/>
+    <style name="map-overlay" background="#rgba(255,121,198,.2)"/>
+    
+	<!-- Default styles -->
+    <style name="def:boolean" foreground="purple"/>
+    <style name="def:comment" foreground="comment"/>
+    <style name="def:constant" foreground="purple"/>
+    <style name="def:decimal" foreground="purple"/>
+    <style name="def:floating-point" foreground="purple"/>
+    <style name="def:function" foreground="green"/>
+    <style name="def:identifier" foreground="pink"/>
+    <style name="def:keyword" foreground="pink"/>
+    <style name="def:operator" foreground="pink"/>
+    <style name="def:preprocessor" foreground="orange"/>
+    <style name="def:special-char" foreground="orange"/>
+    <style name="def:string" foreground="yellow"/>
+    <style name="def:type" foreground="cyan"/>
+    <style name="def:note" foreground="orange" background="#rgba(0,0,0,.2)" bold="true"/>
+    
+    <style name="c:macro-name" foreground="purple"/>
+    <style name="c:preprocessor" foreground="green"/>
+    <style name="c:storage-class" foreground="pink"/>
+    
+    <style name="xml:attribute-name" foreground="green"/>
+    <style name="xml:entity" foreground="purple"/>
+    
+    <style name="java:external" foreground="pink"/>
+    <style name="java:scope-declaration" foreground="pink"/>
+    <style name="java:reserved" foreground="pink"/>
+    <style name="java:storage-class" foreground="pink"/>
+    <style name="java:declaration" foreground="pink"/>
+    
+    <style name="python:decorator" foreground="green"/>
+    <style name="python:class-name" foreground="cyan"/>
+    <style name="python:builtin-function" foreground="green"/>
+    <style name="python:special-variable" foreground="purple"/>
+    <style name="python:module-handler" foreground="pink"/>
+</style-scheme>
