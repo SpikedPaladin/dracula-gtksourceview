@@ -46,6 +46,8 @@
     <style name="def:type" foreground="cyan"/>
     <style name="def:note" foreground="orange" background="#rgba(0,0,0,.2)" bold="true"/>
     
+    <style name="json:keyname" foreground="cyan"/>
+    
     <style name="c:macro-name" foreground="purple"/>
     <style name="c:preprocessor" foreground="green"/>
     <style name="c:storage-class" foreground="pink"/>
