@@ -15,7 +15,7 @@ Download using the [GitHub .zip download](https://github.com/SpikedPaladin/dracu
 Open terminal and execute following commands
 
     $ cd ~/.local/share/gtksourceview-4/styles
-    $ wget https://raw.githubusercontent.com/SpikedPaladin/dracula-gtksouceview/master/dracula.xml
+    $ wget https://raw.githubusercontent.com/SpikedPaladin/dracula-gtksourceview/master/dracula.xml
 
 #### Activating theme
 *If you have used the wget method you can skip this step.*  
