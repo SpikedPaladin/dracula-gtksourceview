@@ -4,6 +4,10 @@
   	<author>PaladinDev</author>
   	<description>Dark color scheme for GtkSourceView</description>
     
+    <metadata>
+      <property name="terminal-palette">dracula</property>
+    </metadata>
+    
     <!-- Dracula Palette -->
     <color name="background" value="#282A36"/>
     <color name="current-line" value="#44475A"/>
