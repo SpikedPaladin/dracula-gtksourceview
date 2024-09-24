@@ -34,7 +34,7 @@
   	<style name="search-match" foreground="background" background="cyan"/>
     <style name="map-overlay" background="#rgba(255,121,198,.2)"/>
     
-	<!-- Default styles -->
+	  <!-- Default styles -->
     <style name="def:boolean" foreground="purple"/>
     <style name="def:comment" foreground="comment"/>
     <style name="def:constant" foreground="purple"/>
@@ -49,6 +49,9 @@
     <style name="def:string" foreground="yellow"/>
     <style name="def:type" foreground="cyan"/>
     <style name="def:note" foreground="orange" background="#rgba(0,0,0,.2)" bold="true"/>
+    
+    <style name="def:error" underline="error-line" underline-color="red"/>
+    <style name="def:warning" underline="error-line" underline-color="yellow"/>
     
     <style name="json:keyname" foreground="cyan"/>
     
