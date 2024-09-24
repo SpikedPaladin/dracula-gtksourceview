@@ -31,7 +31,7 @@
     <style name="bracket-match" foreground="#F8F8FA" background="#1E2029" bold="true"/>
     <style name="right-margin" background="#4A4F66"/>
     <style name="background-pattern" foreground="#313447" background="#313447"/>
-  	<style name="search-match" foreground="foreground" background="cyan"/>
+  	<style name="search-match" foreground="background" background="cyan"/>
     <style name="map-overlay" background="#rgba(255,121,198,.2)"/>
     
 	<!-- Default styles -->
